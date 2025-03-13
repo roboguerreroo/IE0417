@@ -1,3 +1,43 @@
+# --- C y C++ ---
+
+# Archivos de compilación
+*.o
+*.obj
+*.lo
+*.slo
+*.Plo
+
+# Binarios ejecutables
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos de depuración
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+
+# Archivos de logs
+*.log
+
+# Archivos temporales y backups
+*~
+*.swp
+*.bak
+*.tmp
+*.stackdump
+
+# Directorios comunes de build
+/build/
+/dist/
+/Debug/
+/Release/
+
+# --- Python ---
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
