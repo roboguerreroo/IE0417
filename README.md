@@ -3,6 +3,7 @@
 ## Autor
 - **Byron Josué Arguedas López**  
 - Contacto: byron.arguedas@ucr.ac.cr
+- Carnet: C10606
 
 ## Descripción
 Repositorio para almacenar y organizar los quices, tareas y laboratorios del curso **IE0417**.
