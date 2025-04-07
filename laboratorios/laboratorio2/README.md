@@ -14,3 +14,7 @@
 ![ejercicio 3](<Screenshot 2025-04-07 143822.png>)
 ![ejercicio 3](<Screenshot 2025-04-07 143948.png>)
 ![ejercicio 3](<Screenshot 2025-04-07 144016.png>)
+
+*links para la documentación:
+**C++:https://sparkly-cannoli-8029a2.netlify.app/index.html
+**Python: https://67f44e9d289a590075994d0f--joyful-lamington-7a7156.netlify.app/
