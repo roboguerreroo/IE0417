@@ -1,4 +1,5 @@
-# Autor: Byron Josué Arguedas López  Carnet: C10606
+## Autor: Byron Josué Arguedas López
+## Carnet: C10606
 
 ![ejercicio 1](<Screenshot 2025-04-06 182145.png>)
 ![ejercicio 2](<Screenshot 2025-04-06 182355.png>)
