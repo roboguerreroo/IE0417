@@ -130,5 +130,7 @@ Este laboratorio incluye documentación generada automáticamente para dos lengu
 
 ## Enlaces a la documentación
 
-- **C++**: [Ver Documentación C++](https://sparkly-cannoli-8029a2.netlify.app/index.html)
-- **Python**: [Ver Documentación Python](https://67f44e9d289a590075994d0f--joyful-lamington-7a7156.netlify.app/)
+- **C++**: [Ver Documentación C++](https://dreamy-yeot-7c69a5.netlify.app/files.html)
+
+
+- **Python**: [Ver Documentación Python](https://tranquil-youtiao-d0ce0c.netlify.app/)
