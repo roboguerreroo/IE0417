@@ -1,5 +1,7 @@
-## Byron Josué Arguedas López
-## C10606
+## Sebastián Bonilla Vega, C01263.
+## Brenda Castro Jiménez, C21904.
+## Luis Brenes Castro, C21324.
+## Byron Josué Arguedas López, C10606
 
 ---
 
