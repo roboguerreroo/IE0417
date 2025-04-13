@@ -337,4 +337,8 @@ Las tablas clave deben incluir:
   2. El estudiante puede **cerrar la ventana** de detalles y continuar visualizando el plan de estudios o seleccionar otro curso.
 
 
+---
 
+# Diagrama UML
+
+![alt text](<WhatsApp Image 2025-04-12 at 17.02.35_fb2fb782.jpg>)
