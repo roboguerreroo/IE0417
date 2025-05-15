@@ -188,3 +188,13 @@ def render_gui(factory: GUIFactory):
 os_factory = LinuxFactory()
 render_gui(os_factory)
 ```
+
+## Reflexión:
+
+Si bien es cierto que se requiere bastante conocimiento para reconocer cúal patrón se puede utilizar y porqué, una vez se reconoce el patrón adecuado al caso de aplicación nos brinda muchos beneficios como:
+
+- Reducir el acoplamiento entre componentes.
+
+- Facilitar el mantenimiento y extensión del código.
+
+- Reutilizar soluciones probadas
