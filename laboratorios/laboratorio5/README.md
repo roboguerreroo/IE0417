@@ -1,7 +1,7 @@
 # Laboratorio 5: Despliegue de una aplicación Django con Docker. Infraestructura, persistencia y redes
 - Diseño de Software para Ingeniería IE-0417
 - Brenda Castro Jiménez C21904
-- Byron Arguedas López C21904
+- Byron Arguedas López C10606
 - Luis Brenes Campos C21324
 
 # Diagrama de arquitectura del sistema
